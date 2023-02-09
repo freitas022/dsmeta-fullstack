@@ -54,7 +54,7 @@ Pré-requisitos: STS / Eclipse / Twilio Account
 
 Antes de configurar o projeto crie uma conta na [Twilio](https://www.twilio.com/try-twilio "Site da Twilio"), será necessário para enviar o SMS.
 
-Faça o download do [SpringToolSuite](https://spring.io/tools "Spring site") e faça a importação do projeto usando o Maven e aguarde compilar das dependências.
+Faça o download do [SpringToolSuite](https://spring.io/tools "Spring site"), importe o projeto usando o Maven e aguarde compilar as dependências.
 
 ```bash
 # configurando variáveis de ambiente para enviar SMS com Twilio
